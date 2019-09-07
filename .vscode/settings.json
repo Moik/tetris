@@ -1,0 +1,21 @@
+{
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 80,
+  "prettier.trailingComma": "es5",
+  "html.format.enable": true,
+  "html.format.wrapAttributes": "force-aligned",
+  "typescriptHero.imports.organizeOnSave": true,
+  "typescriptHero.imports.removeTrailingIndex": false,
+  "typescriptHero.imports.grouping": [
+    "Plains",
+    "/@angular/",
+    "/@ngrx/",
+    "Modules",
+    "/@cms/",
+    "Workspace"
+  ]
+}
